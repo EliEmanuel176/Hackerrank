@@ -1,7 +1,13 @@
 # Hackerrank
 Solutions to Hackerrank Problems (Python)
 
-The Hackerrank problems listed here are listed in order of when they were first attempted.
+Hackerrank problems listed here are listed here as of 17/07/2022 (DD/MM/YYYY):
+
+Easy: 
+Medium: 
+Hard: 
+
+Total: 
 
 To view the full question for each question: click on the 3 horizontal dots, in the middle of the screen, on the right of the file name.
 
